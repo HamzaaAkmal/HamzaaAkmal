@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently University **Student**
 
-- 🌱 I’m currently learning **Python, Tensorflow, Transformers,Llms**
-
-- 📝 I regularly write articles on [ninealert.com](ninealert.com)
+- 🌱 I’m currently learning **Python, Java, Dart**
 
 - 💬 Ask me about **Cracking,Scraping,Python**
 
