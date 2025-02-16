@@ -6,6 +6,7 @@
 
 
 - 🔭 I’m currently University **Student**
+- I Post Daily at (AI News)[https://aiii.news]
 
 - 🌱 I’m currently learning **Python, Java, Dart**
 
