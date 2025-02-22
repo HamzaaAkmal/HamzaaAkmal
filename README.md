@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Hamza Akmal</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.github">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaakmalli&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaakmalli" /> </p>
 
 
@@ -8,13 +7,13 @@
 - 🔭 I’m currently University **Student**
 - I Post Daily at (AI News)[https://aiii.news]
 
-- 🌱 I’m currently learning **Python, Java, Dart**
+- 🌱 I’m currently learning **Machine Learning, NLP , APIs**
 
 - 💬 Ask me about **Cracking,Scraping,Python**
 
-- 📫 How to reach me **hamza@ninealert.com**
+- 📫 How to reach me **hamza@aiii.news**
 
-- ⚡ Fun fact **I am Nothing**
+- ⚡**Independent Thinker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
