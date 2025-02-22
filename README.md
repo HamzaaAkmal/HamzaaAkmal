@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Hamza Akmal</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.github">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaakmalli&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaakmalli" /> </p>
 
 
