@@ -5,9 +5,8 @@
 
 
 - 🔭 I’m currently University **Student**
-- I Post Daily at (AI News)[https://aiii.news]
 
-- 🌱 I’m currently learning **Machine Learning, NLP , APIs**
+- 🌱 I’m currently learning **Machine Learning, NLP**
 
 - 💬 Ask me about **Cracking,Scraping,Python**
 
